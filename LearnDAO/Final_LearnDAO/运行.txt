@@ -1,0 +1,7 @@
+javac -encoding utf8 -d . Pet.java
+javac -encoding utf8 -d . PetDao.java
+javac -encoding utf8 -d . DbHelper.java
+javac -encoding utf8 -d . PetDaoImpl.java
+javac -encoding utf8 -d . PetDaoTestCase.java
+
+java org.junit.runner.JUnitCore com.cheer.test.PetDaoTestCase

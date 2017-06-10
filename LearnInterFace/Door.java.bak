@@ -1,0 +1,5 @@
+public abstract Doorclass Door 
+{
+	public abstract void openDoor();
+	public abstract void closeDoor();
+}

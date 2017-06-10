@@ -1,0 +1,4 @@
+public interface doorBell
+{
+	public void ringDoor();
+}

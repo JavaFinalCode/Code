@@ -1,0 +1,8 @@
+编译：javac -d . -encoding utf-8 LearnJdbc.java
+
+运行：java org.junit.runner.JUnitCore com.cheer.LearnJdbc
+
+
+1、得先编译Emp文件
+2、-encoding utf8  编码   文件设置编码格式
+3、得用字符编码chcp 936   命令窗口设置编码格式
