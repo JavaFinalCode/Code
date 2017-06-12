@@ -1,4 +1,4 @@
-public class BaseDao
+public class DbHelper
 {	
 	private static DbHelper INSTANCE =new DbHelper();
 	
